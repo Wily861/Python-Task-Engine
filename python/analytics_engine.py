@@ -4,7 +4,7 @@ import os
 # =============================
 #   GESTOR DE TAREAS EN PYTHON
 #   Autor: Wily Duvan Villamil Rey
-#   LinkedIn: www.linkedin.com/in/wily-rey-administrador-bases-datos
+#   LinkedIn: www.linkedin.com/in/wily-rey-dba
 # =============================
 
 DB_FILE = "tareas.json"
